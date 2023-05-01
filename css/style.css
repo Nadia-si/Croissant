@@ -1,0 +1,26 @@
+.homepage {
+  background-color: rgb(216, 173, 177);
+}
+.gallery {
+  background-color: rgb(124, 158, 155);
+}
+.contact-page {
+  background-color: rgb(162, 207, 148);
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+img {
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  text-align: center;
+  display: block;
+}
+p {
+  text-align: center;
+}
